@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/ThienProject/solidity_workshop#readme",
   "dependencies": {
-    "hardhat": "^2.22.2"
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.2",
+    "openzeppelin-solidity": "^3.4.2"
   }
 }
